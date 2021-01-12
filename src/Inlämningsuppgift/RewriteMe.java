@@ -1,33 +1,11 @@
 package Inlämningsuppgift;
 
-import ÖvningUppgift1.Bok;
-
 import java.util.Collection;
 import java.util.List;
 import java.util.Map;
-import java.util.Optional;
 import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.groupingBy;
-
-/*
-Inlämningsuppgit i kursen Funktionell Programmering för JAVA-programmet
-
-För samtliga funktioner i denna fil, byt ut "throw UnSupportedException"-raden
-och skriv ett pipeline-uttryck som returnerar det som ska returneras.
-
-Streams MÅSTE användas i samtliga funktioner som lämnas in
-För att testa om era funktioner funkar, kör testerna som hör till denna fil
-
-För att bli godkänd på denna uppgift måste minst 7 av funktionerna vara implementerade.
-
-Sigruns bedömning av denna uppgift kommer att gå till så att hon klipper in er version av denna fil
-i sitt projekt och kör testerna.
-Hennes kontroll om ni har klarat uppgifterna eller inte görs genom att
-hon kollar att tillräckeligt många av tester går gröna. Pga detta ska ni inte ändra i någon fil
-medföljande detta projekt, och inte heller metodsignaturerna i denna fil eller era tester, eftersom
-ni då riskerar att påverka rättningen i negativ riktning.
- */
 
 public class RewriteMe {
 
